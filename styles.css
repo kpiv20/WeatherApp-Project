@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+}
+h4 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #351188c4;
+}
+h3 {
+  font-size: 30px;
+  font-family: "Playfair Display", serif;
+  line-height: 28px;
+  margin: 0;
+}
+
+#tempDescription {
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+}
+#displayTemp {
+  font-size: 64px;
+  font-family: "Playfair Display", serif;
+}
+
+#units {
+  font-size: 25px;
+  font-weight: 100px;
+  top: -100px;
+  font-family: "Playfair Display", serif;
+}
+
+#current-location-button {
+  display: block;
+  padding: 10px 20px;
+  font-size: 13px;
+  margin: 30px auto;
+  color: #351188c4;
+}
+#card-body {
+  background-color: rgb(188, 188, 204);
+}
+
+.cloudyicon,
+.rainingicon,
+.sunnyicon {
+  margin: 30px auto;
+  width: 100px;
+  color: beige;
+}
